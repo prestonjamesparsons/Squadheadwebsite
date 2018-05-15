@@ -1,0 +1,45 @@
+*
+{
+   margin: 0;
+   padding: 0;
+   
+}
+
+header
+{
+
+  Background-image:url(background.png);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+   
+}
+
+.main-nav
+{
+	float: left;
+    text-align: center;
+    width: 100%;
+    margin: .8em 0 0 0;
+	
+	
+}
+
+.main-nav li 
+{
+	display: inline-block;
+	text-align: center;
+	
+}
+
+.main-nav li a 
+{
+	color: white;
+	text-decoration: none;
+	padding: 20px 20px;
+	font-family: "Roboto", sana-serif;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
